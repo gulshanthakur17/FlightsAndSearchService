@@ -5,6 +5,7 @@ const {PORT} = require('./config/ServerConfig');
 const ApiRoutes = require('./routes/index');
 
 const db = require('./models/index');
+//const { Airplane } = require('./models/index');
 
 
 
